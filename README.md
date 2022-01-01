@@ -35,6 +35,8 @@ Thanks, Scott, for all the encouragment. Here we go!
 - When you are using the notebooks for this class, click on the cells with code. Hit Shift + Enter AND keep your eyes peeled on the line right below the cell. That's where your "result" appears. I kept thinking it was going to run and print somewhere else. I thought it wasn't working!
 - When you can't figure out what your GitHub "Repo" is, it's your Repository. Seems obvious now!
 - The Root File is just the main branch/generic/first level folder inside your repository.
+- Module 2 -- The exercise has you print the same item from a list using the positive and negative index. It also uses a command it hasn't taught, "\n" to get a new line.
+- Because it is also getting fancy and mixing the print command to get words along with the item from the list, it is possible to over look the fact that you don't need to use print at all. Once you have defined the list. You just have to say L[0] and either hit shift+enter or hit the little run arrow at the top of the notebook and it should spit out the first item in the list. 
 
 
 ## FAQ
