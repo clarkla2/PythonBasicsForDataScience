@@ -22,8 +22,7 @@ Thanks, Dad, for giving me a computer in 1984!
 Sorry I didn't listen and learn C back then. 
 This one is for you.
 
-Thanks, Mom, for teaching me to use an IBM Selectric and to balance your checkbook. The first taught me the power of a machine. The latter set me up to recognize the beauty of a spreadsheet and a formula
-.
+Thanks, Mom, for teaching me to use an IBM Selectric and to balance your checkbook. The first taught me the power of a machine. The latter set me up to recognize the beauty of a spreadsheet and a formula.
 
 Thanks, Scott, for all the encouragment. Here we go!
 
@@ -37,6 +36,9 @@ Thanks, Scott, for all the encouragment. Here we go!
 - The Root File is just the main branch/generic/first level folder inside your repository.
 - Module 2 -- The exercise has you print the same item from a list using the positive and negative index. It also uses a command it hasn't taught, "\n" to get a new line.
 - Because it is also getting fancy and mixing the print command to get words along with the item from the list, it is possible to over look the fact that you don't need to use print at all. Once you have defined the list. You just have to say L[0] and either hit shift+enter or hit the little run arrow at the top of the notebook and it should spit out the first item in the list. 
+- On the other hand, sometimes it asks you to accomplish three things. The "solution" will only show the three pieces of code in a row, but that will not spit out the three "answers" unless you ask it to print each one. I personally like to see the results.
+- Sometimes the answers are uncecessarily complex. It asks you to find the result of multiplying two arrays. First it names the result and then does the multiplying. But all you needed to do was multiply the two arrays to get the answer as asked.
+- On creating IBM Cloud account. I followed tutorial, but after I selected "Personal" account, I never got a place to enter a code. It worked anyway. Just follow the next instructions.
 
 
 ## FAQ
